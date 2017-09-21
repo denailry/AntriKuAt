@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855906461919",
+    "firebase_url": "https://antriku-cc6cb.firebaseio.com",
+    "project_id": "antriku-cc6cb",
+    "storage_bucket": "antriku-cc6cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855906461919:android:10eb529d8da716d2",
+        "android_client_info": {
+          "package_name": "com.project.denail.antriku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855906461919-mo1f4cpqsqf7atgjf6p1l73fsmckr2ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEfanvWD8tG-Fsjck--GcI0Qo4e6oWgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
